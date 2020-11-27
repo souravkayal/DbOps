@@ -5730,11 +5730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Kargil\\DBOps.csproj",
+      "projectUniqueName": "G:\\Learning\\DbOps\\DbOps\\DBOps.csproj",
       "projectName": "DBOps",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Kargil\\DBOps.csproj",
+      "projectPath": "G:\\Learning\\DbOps\\DbOps\\DBOps.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Kargil\\obj\\",
+      "outputPath": "G:\\Learning\\DbOps\\DbOps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
